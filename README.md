@@ -1,2 +1,2 @@
 # FingerCount
-Tells you the count of your fingers using openCV
+Tells you the count of your fingers using HandDetectorModule
